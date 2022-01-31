@@ -29,3 +29,7 @@ a{
     background: grey;
     height: 100vh;
 }
+
+.main__link{
+    color: red;
+}
